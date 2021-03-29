@@ -1,4 +1,4 @@
-# i_am_rich
+# I Am Rich App
 
 A basic flutter app that displays an app bar with title, and a network image.
 
